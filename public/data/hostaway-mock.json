@@ -1,0 +1,790 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 1001,
+      "listingId": 1,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Great location and very clean.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-08-01 12:00:00",
+      "guestName": "Alice W.",
+      "listingName": "Cozy Downtown Apartment"
+    },
+    {
+      "id": 1002,
+      "listingId": 1,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Nice stay, some minor issues.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-08-05 15:30:00",
+      "guestName": "Bob K.",
+      "listingName": "Cozy Downtown Apartment"
+    },
+    {
+      "id": 1017,
+      "listingId": 1,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Apartment was spotless and the host was very responsive. Loved the nearby cafes.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "location", "rating": 9 }
+      ],
+      "submittedAt": "2025-08-07 10:45:00",
+      "guestName": "Sophie L.",
+      "listingName": "Cozy Downtown Apartment"
+    },
+    {
+      "id": 1018,
+      "listingId": 1,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Good stay overall, though there was some street noise at night.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 7 },
+        { "category": "comfort", "rating": 6 }
+      ],
+      "submittedAt": "2025-08-12 09:30:00",
+      "guestName": "Liam P.",
+      "listingName": "Cozy Downtown Apartment"
+    },
+    {
+      "id": 1024,
+      "listingId": 1,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Comfortable apartment with everything we needed. Easy check-in process.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "check_in", "rating": 8 }
+      ],
+      "submittedAt": "2025-08-15 14:00:00",
+      "guestName": "Mia T.",
+      "listingName": "Cozy Downtown Apartment"
+    },
+
+    {
+      "id": 1003,
+      "listingId": 2,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Modern loft with perfect amenities.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 }
+      ],
+      "submittedAt": "2025-07-05 10:00:00",
+      "guestName": "Diana S.",
+      "listingName": "Modern Loft"
+    },
+    {
+      "id": 1004,
+      "listingId": 2,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Stylish and comfortable loft.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "respect_house_rules", "rating": 9 }
+      ],
+      "submittedAt": "2025-07-06 14:00:00",
+      "guestName": "Ethan J.",
+      "listingName": "Modern Loft"
+    },
+    {
+      "id": 1019,
+      "listingId": 2,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Loft was stylish and very comfortable. Kitchen had everything we needed.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "amenities", "rating": 8 }
+      ],
+      "submittedAt": "2025-07-07 16:20:00",
+      "guestName": "Olivia M.",
+      "listingName": "Modern Loft"
+    },
+    {
+      "id": 1020,
+      "listingId": 2,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Enjoyed our stay, though parking was a bit tricky.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 7 },
+        { "category": "accessibility", "rating": 6 }
+      ],
+      "submittedAt": "2025-07-08 12:00:00",
+      "guestName": "Evan T.",
+      "listingName": "Modern Loft"
+    },
+    {
+      "id": 1025,
+      "listingId": 2,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Excellent loft, everything was clean and modern. Host provided extra towels and snacks.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "amenities", "rating": 9 }
+      ],
+      "submittedAt": "2025-07-10 09:00:00",
+      "guestName": "Chloe H.",
+      "listingName": "Modern Loft"
+    },
+
+    {
+      "id": 1005,
+      "listingId": 3,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Luxury villa, very clean.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-08-01 11:00:00",
+      "guestName": "George M.",
+      "listingName": "Luxury Villa"
+    },
+    {
+      "id": 1006,
+      "listingId": 3,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6,
+      "publicReview": "Some minor issues with cleanliness.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-08-10 16:00:00",
+      "guestName": "Hannah T.",
+      "listingName": "Luxury Villa"
+    },
+    {
+      "id": 1021,
+      "listingId": 3,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Villa is luxurious with beautiful views. Would be nice to have more towels provided.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 8 },
+        { "category": "amenities", "rating": 9 }
+      ],
+      "submittedAt": "2025-08-12 15:00:00",
+      "guestName": "Isabel R.",
+      "listingName": "Luxury Villa"
+    },
+    {
+      "id": 1022,
+      "listingId": 3,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Guest was respectful and left the villa in excellent condition.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 }
+      ],
+      "submittedAt": "2025-08-15 13:30:00",
+      "guestName": "Lucas F.",
+      "listingName": "Luxury Villa"
+    },
+    {
+      "id": 1026,
+      "listingId": 3,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Overall good stay, but the pool area could be cleaner.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "amenities", "rating": 8 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-08-18 12:00:00",
+      "guestName": "Nora S.",
+      "listingName": "Luxury Villa"
+    },
+    {
+      "id": 1007,
+      "listingId": 4,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Beachside bungalow is amazing!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-07-18 13:00:00",
+      "guestName": "Kevin R.",
+      "listingName": "Beachside Bungalow"
+    },
+    {
+      "id": 1008,
+      "listingId": 4,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Bathroom was not very clean.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 }
+      ],
+      "submittedAt": "2025-08-05 18:00:00",
+      "guestName": "Mike D.",
+      "listingName": "Beachside Bungalow"
+    },
+    {
+      "id": 1023,
+      "listingId": 4,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Bungalow is right on the beach, very clean and comfortable. Could use more kitchen utensils.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "amenities", "rating": 7 }
+      ],
+      "submittedAt": "2025-07-20 14:30:00",
+      "guestName": "Samantha Q.",
+      "listingName": "Beachside Bungalow"
+    },
+    {
+      "id": 1027,
+      "listingId": 4,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Beautiful view and very spacious. Loved the patio area for sunsets.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 },
+        { "category": "view", "rating": 10 }
+      ],
+      "submittedAt": "2025-07-22 16:00:00",
+      "guestName": "Holly F.",
+      "listingName": "Beachside Bungalow"
+    },
+    {
+      "id": 1028,
+      "listingId": 4,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Great location but could improve cleanliness in the kitchen area.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-07-25 12:30:00",
+      "guestName": "Jordan M.",
+      "listingName": "Beachside Bungalow"
+    },
+
+    {
+      "id": 1009,
+      "listingId": 5,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Cityview Penthouse is perfect!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 }
+      ],
+      "submittedAt": "2025-06-01 10:00:00",
+      "guestName": "Nina W.",
+      "listingName": "Cityview Penthouse"
+    },
+    {
+      "id": 1010,
+      "listingId": 5,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Penthouse is great but small kitchen.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-06-03 12:00:00",
+      "guestName": "Oscar B.",
+      "listingName": "Cityview Penthouse"
+    },
+    {
+      "id": 1029,
+      "listingId": 5,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Amazing city views, very modern interior, and host was extremely helpful.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 10 },
+        { "category": "view", "rating": 10 }
+      ],
+      "submittedAt": "2025-06-05 14:00:00",
+      "guestName": "Lara S.",
+      "listingName": "Cityview Penthouse"
+    },
+    {
+      "id": 1030,
+      "listingId": 5,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Good location, but noise from traffic was noticeable at night.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 7 },
+        { "category": "comfort", "rating": 6 }
+      ],
+      "submittedAt": "2025-06-06 11:30:00",
+      "guestName": "Ethan L.",
+      "listingName": "Cityview Penthouse"
+    },
+    {
+      "id": 1031,
+      "listingId": 5,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Penthouse was spacious and clean. Would love a bigger kitchen next time.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "amenities", "rating": 7 }
+      ],
+      "submittedAt": "2025-06-08 12:00:00",
+      "guestName": "Mason T.",
+      "listingName": "Cityview Penthouse"
+    },
+
+    {
+      "id": 1011,
+      "listingId": 6,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Suburban house comfortable.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 6 }
+      ],
+      "submittedAt": "2025-07-15 14:00:00",
+      "guestName": "Quinn K.",
+      "listingName": "Suburban House"
+    },
+    {
+      "id": 1032,
+      "listingId": 6,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Nice quiet neighborhood, house was clean and had everything we needed.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 8 },
+        { "category": "location", "rating": 9 }
+      ],
+      "submittedAt": "2025-07-18 10:00:00",
+      "guestName": "Anna V.",
+      "listingName": "Suburban House"
+    },
+    {
+      "id": 1033,
+      "listingId": 6,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Comfortable stay but internet connection was a bit slow.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 7 },
+        { "category": "amenities", "rating": 6 }
+      ],
+      "submittedAt": "2025-07-20 12:30:00",
+      "guestName": "Ryan F.",
+      "listingName": "Suburban House"
+    },
+    {
+      "id": 1034,
+      "listingId": 6,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Lovely house, quiet backyard perfect for kids. Host was very responsive.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 },
+        { "category": "family_friendly", "rating": 10 }
+      ],
+      "submittedAt": "2025-07-22 16:00:00",
+      "guestName": "Emma G.",
+      "listingName": "Suburban House"
+    },
+    {
+      "id": 1035,
+      "listingId": 6,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6,
+      "publicReview": "Good location but some minor cleanliness issues. Bedsheets could be fresher.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-07-25 14:00:00",
+      "guestName": "Jake R.",
+      "listingName": "Suburban House"
+    },
+    {
+      "id": 1012,
+      "listingId": 7,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Mountain cabin very cozy.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-08-05 17:00:00",
+      "guestName": "Tina J.",
+      "listingName": "Mountain Cabin"
+    },
+    {
+      "id": 1036,
+      "listingId": 7,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Cabin is charming and well-equipped. Loved the fireplace for chilly evenings.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 },
+        { "category": "comfort", "rating": 9 }
+      ],
+      "submittedAt": "2025-08-08 14:00:00",
+      "guestName": "Ben H.",
+      "listingName": "Mountain Cabin"
+    },
+    {
+      "id": 1037,
+      "listingId": 7,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Beautiful location, though a bit far from town. Cabin was clean and quiet.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "location", "rating": 7 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-08-10 12:30:00",
+      "guestName": "Clara D.",
+      "listingName": "Mountain Cabin"
+    },
+    {
+      "id": 1038,
+      "listingId": 7,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Cozy cabin with spectacular mountain views. Everything worked perfectly.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "comfort", "rating": 9 },
+        { "category": "view", "rating": 10 }
+      ],
+      "submittedAt": "2025-08-12 16:00:00",
+      "guestName": "Derek S.",
+      "listingName": "Mountain Cabin"
+    },
+    {
+      "id": 1039,
+      "listingId": 7,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Lovely cabin with great amenities, easy check-in. Perfect for a weekend getaway.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "amenities", "rating": 9 },
+        { "category": "check_in", "rating": 9 }
+      ],
+      "submittedAt": "2025-08-15 10:00:00",
+      "guestName": "Fiona M.",
+      "listingName": "Mountain Cabin"
+    },
+
+    {
+      "id": 1013,
+      "listingId": 8,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6,
+      "publicReview": "Historic townhouse could be cleaner.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-07-01 10:00:00",
+      "guestName": "Wendy M.",
+      "listingName": "Historic Townhouse"
+    },
+    {
+      "id": 1040,
+      "listingId": 8,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Townhouse has character, nice location. Some furniture was a bit worn.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 7 },
+        { "category": "comfort", "rating": 6 }
+      ],
+      "submittedAt": "2025-07-03 14:00:00",
+      "guestName": "Liam C.",
+      "listingName": "Historic Townhouse"
+    },
+    {
+      "id": 1041,
+      "listingId": 8,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Nice historical charm and central location. Host was helpful with local tips.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 9 },
+        { "category": "location", "rating": 9 }
+      ],
+      "submittedAt": "2025-07-05 11:00:00",
+      "guestName": "Emma L.",
+      "listingName": "Historic Townhouse"
+    },
+    {
+      "id": 1042,
+      "listingId": 8,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6,
+      "publicReview": "Interesting decor but some minor cleanliness issues. Overall okay.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-07-08 13:00:00",
+      "guestName": "Noah W.",
+      "listingName": "Historic Townhouse"
+    },
+    {
+      "id": 1043,
+      "listingId": 8,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Good location, historic vibe, but beds were a bit uncomfortable.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "comfort", "rating": 6 },
+        { "category": "location", "rating": 8 }
+      ],
+      "submittedAt": "2025-07-10 15:00:00",
+      "guestName": "Sophia N.",
+      "listingName": "Historic Townhouse"
+    },
+
+    {
+      "id": 1014,
+      "listingId": 9,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Urban studio clean and modern.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-08-01 09:00:00",
+      "guestName": "Zane K.",
+      "listingName": "Urban Studio"
+    },
+    {
+      "id": 1044,
+      "listingId": 9,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Modern studio, everything worked perfectly. Could use more storage space.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 8 },
+        { "category": "amenities", "rating": 7 }
+      ],
+      "submittedAt": "2025-08-03 12:00:00",
+      "guestName": "Mia P.",
+      "listingName": "Urban Studio"
+    },
+    {
+      "id": 1045,
+      "listingId": 9,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Studio is stylish, location perfect for walking around the city. Very responsive host.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 },
+        { "category": "location", "rating": 10 }
+      ],
+      "submittedAt": "2025-08-05 16:00:00",
+      "guestName": "Ethan V.",
+      "listingName": "Urban Studio"
+    },
+    {
+      "id": 1046,
+      "listingId": 9,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Good stay, but the apartment was a bit small for 2 people.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "comfort", "rating": 6 }
+      ],
+      "submittedAt": "2025-08-07 14:00:00",
+      "guestName": "Lucas R.",
+      "listingName": "Urban Studio"
+    },
+    {
+      "id": 1047,
+      "listingId": 9,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Clean and modern studio, perfect for short stays.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 8 },
+        { "category": "comfort", "rating": 8 }
+      ],
+      "submittedAt": "2025-08-10 09:30:00",
+      "guestName": "Olivia T.",
+      "listingName": "Urban Studio"
+    },
+
+    {
+      "id": 1015,
+      "listingId": 10,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Countryside cottage perfect!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 }
+      ],
+      "submittedAt": "2025-06-10 11:00:00",
+      "guestName": "Clara P.",
+      "listingName": "Countryside Cottage"
+    },
+    {
+      "id": 1016,
+      "listingId": 10,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Great stay in cottage, very cozy.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 8 }
+      ],
+      "submittedAt": "2025-06-11 12:00:00",
+      "guestName": "David R.",
+      "listingName": "Countryside Cottage"
+    },
+    {
+      "id": 1048,
+      "listingId": 10,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Beautiful cottage, peaceful surroundings. Host provided local recommendations.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 },
+        { "category": "location", "rating": 10 }
+      ],
+      "submittedAt": "2025-06-13 15:00:00",
+      "guestName": "Sophia P.",
+      "listingName": "Countryside Cottage"
+    },
+    {
+      "id": 1049,
+      "listingId": 10,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Cottage was well-equipped and clean. Perfect for a weekend getaway.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "amenities", "rating": 8 },
+        { "category": "comfort", "rating": 8 }
+      ],
+      "submittedAt": "2025-06-15 12:00:00",
+      "guestName": "Liam F.",
+      "listingName": "Countryside Cottage"
+    },
+    {
+      "id": 1050,
+      "listingId": 10,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Overall nice stay, but heating system was a bit tricky to operate.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "amenities", "rating": 6 },
+        { "category": "communication", "rating": 7 }
+      ],
+      "submittedAt": "2025-06-18 10:00:00",
+      "guestName": "Noah P.",
+      "listingName": "Countryside Cottage"
+    }
+  ]
+}

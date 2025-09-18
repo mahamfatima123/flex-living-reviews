@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "listingName": "Cozy Downtown Apartment",
+    "image": "/images/app1.jpg",
+    "images": ["/images/bed1.jpg","/images/bath1.jpg","/images/kitchen1.jpg","/images/balcony1.jpg", "/images/lib1.jpg"],
+    "channels": ["Hostaway", "Google"],
+    "features": ["5 guests", "2 bedrooms", "2 baths", "Free WiFi", "Private living room"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-23",
+      "2025-09-24",
+      "2025-09-25"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 2,
+    "listingName": "Modern Loft",
+    "image": "/images/app2.jpg",
+    "images": ["/images/bed2.jpg","/images/bath2.jpg","/images/kitchen2.jpg","/images/balcony2.avif" , "/images/lib1.jpg"],
+    "channels": ["Airbnb"],
+    "features": ["4 guests", "1 bedroom", "1 bath", "Free WiFi", "Shared living room"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-23",
+      "2025-09-24",
+      "2025-09-25"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 3,
+    "listingName": "Luxury Villa",
+    "image": "/images/app3.webp",
+    "images": ["/images/bed3.webp","/images/bath3.jpg","/images/kitchen1.jpg","/images/balcony3.jpg", "/images/lib1.jpg"],
+    "channels": ["Google", "Airbnb"],
+    "features": ["8 guests", "4 bedrooms", "3 baths", "Pool", "Private living room"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 4,
+    "listingName": "Beachside Bungalow",
+    "image": "/images/app4.jpg",
+    "images": ["/images/bed4.jpg","/images/bath4.jpg","/images/kitchen2.jpg","/images/balcony4.webp", "/images/lib1.jpg"],
+    "channels": ["Hostaway", "Airbnb"],
+    "features": ["6 guests", "3 bedrooms", "2 baths", "Beach view", "Free WiFi"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 5,
+    "listingName": "Cityview Penthouse",
+    "image": "/images/app5.jpg",
+    "images": ["/images/bed1.jpg","/images/bath5.jpg","/images/kitchen1.jpg","/images/balcony1.jpg", "/images/lib1.jpg"],
+    "channels": ["Airbnb", "Google"],
+    "features": ["4 guests", "2 bedrooms", "2 baths", "City view", "Free WiFi"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 6,
+    "listingName": "Suburban House",
+    "image": "/images/app6.jpg",
+    "images": ["/images/bed2.jpg","/images/bath6.jpg","/images/kitchen2.jpg","/images/balcony2.jpg", "/images/lib1.jpg"],
+    "channels": ["Hostaway"],
+    "features": ["6 guests", "3 bedrooms", "2 baths", "Garden", "Free parking"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 7,
+    "listingName": "Mountain Cabin",
+    "image": "/images/app7.jpg",
+    "images": ["/images/bed3.webp","/images/bath6.jpg","/images/kitchen1.jpg","/images/balcony3.jpg", "/images/lib1.jpg"],
+    "channels": ["Google", "Airbnb"],
+    "features": ["5 guests", "2 bedrooms", "1 bath", "Mountain view", "Fireplace"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 8,
+    "listingName": "Historic Townhouse",
+    "image": "/images/app8.webp",
+    "images": ["/images/bed4.jpg","/images/bath7.jpg","/images/kitchen2.jpg","/images/balcony4.webp", "/images/lib1.jpg"],
+    "channels": ["Hostaway", "Google"],
+    "features": ["4 guests", "2 bedrooms", "2 baths", "Historic charm", "Free WiFi"],    
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+  },
+  {
+    "id": 9,
+    "listingName": "Urban Studio",
+    "image": "/images/app9.webp",
+    "images": ["/images/bed1.jpg","/images/bath9.jpg","/images/kitchen1.jpg","/images/balcony1.jpg", "/images/lib1.jpg"],
+    "channels": ["Airbnb"],
+    "features": ["2 guests", "1 bedroom", "1 bath", "City center", "Free WiFi"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  },
+  {
+    "id": 10,
+    "listingName": "Countryside Cottage",
+    "image": "/images/app10.webp",
+    "images": ["/images/bed2.jpg","/images/bath10.jpg","/images/kitchen2.jpg","/images/balcony2.avif", "/images/lib1.jpg"],
+    "channels": ["Hostaway", "Google", "Airbnb"],
+    "features": ["6 guests", "3 bedrooms", "2 baths", "Garden view", "Fireplace", "Free WiFi"],
+    "pricePerNight": 1000,
+    "availability": [
+      "2025-09-20",
+      "2025-09-21",
+      "2025-09-22",
+      "2025-09-25",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "desposit":500,
+    "about": "I am pleased to present this charming apartment in West Kensington. It has two cozy bedrooms, each with a double bed, perfect for two guests per room. The spacious living room also includes an extra bed for one more guest. The apartment features one bathroom and a fully equipped kitchen, ideal for preparing meals. With excellent transport links, shops, and restaurants nearby, this apartment offers both comfort and convenience for your stay in London.\n\nThis apartment is the perfect blend of comfort and convenience for your stay in London. It has two spacious bedrooms, each with a double bed, ideal for up to four guests. Both bedrooms offer plenty of storage space for your belongings, and I’ve provided all linens for you. The bed sheets are 100% cotton, and the duvets and pillows are hypoallergenic, ensuring a restful night’s sleep.\n\nThe living room is a great space to relax and unwind, featuring an extra bed for one more guest. It’s cozy and inviting, perfect for lounging after a busy day.\n\nThe apartment also includes a modern bathroom and a fully equipped kitchen with top-notch appliances, making it easy to cook and enjoy meals. With high-speed WiFi available throughout the apartment, you can stay connected or enjoy some entertainment during your stay.\n\nWhether you’re here for business or leisure, this apartment offers everything you need for a comfortable and enjoyable stay in London.\n\nI'm here to ensure your experience is exceptional, so feel free to contact me for anything you might need!\n\nTo complete your check-in, I’ll need to see a valid ID and have you agree to our terms and conditions. This helps maintain a safe and friendly atmosphere for everyone, and I greatly appreciate your collaboration.\n\nWest Kensington is a vibrant, charming neighborhood that offers the perfect blend of convenience, style."
+
+  }
+]
