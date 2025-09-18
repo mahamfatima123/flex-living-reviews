@@ -69,6 +69,26 @@ Approved reviews are displayed publicly on the property page:
 ### Approvals
 - Review approval status is stored in **LocalStorage** so that managers’ selections persist between sessions.
 ---
+
+### Manager Dashboard
+![Dashboard](./public/readmeimages/topdashboard.png)
+![Dashboard](./public/readmeimages/propertieslistmanager.png)
+![Dashboard](./public/readmeimages/managerpropdetail.png)
+### Property Detail Page with Charts
+![Dashboard](./public/readmeimages/managerreview.png)
+
+
+### Public Review Pages
+![Dashboard](./public/readmeimages/publicpropdetail.png)
+![Dashboard](./public/readmeimages/publicpropdetail2.png)
+![Dashboard](./public/readmeimages/publicpropdetail3.png)
+![Dashboard](./public/readmeimages/publicpropdetail4.png)
+
+
+### Public Contact Us Page
+![Dashboard](./public/readmeimages/contactus.png)
+
+
 ## Tech Stack
 - **Next.js** – Frontend and backend API
 - **React** – UI components
@@ -94,13 +114,6 @@ npm install
 npm run dev
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 ---
-## File Structure
-/components # Reusable UI components (PropertyCard, Filters, HeroBanner, PublicReviewCard, Footer)
-/pages # Next.js pages (dashboard, property details, public pages)
-/pages/api # API route for fetching and normalizing reviews
-/public/data # Mock JSON data (properties.json, hostaway-mock.json)
-/public/images # Property and UI images
----
 ## How Reviews Work
 - Reviews are fetched via `/api/reviews/hostaway`.
 - Each review is normalized:
@@ -120,11 +133,6 @@ npm run dev
   - Detect recurring issues
   - Highlight average response times
 - Enhance booking features on public pages.
----
-## Screenshots
-- Dashboard Overview  
-- Property Detail with Charts  
-- Public Property Page  
 ---
 ## Contributing
 Contributions are welcome!  
